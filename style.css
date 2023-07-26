@@ -38,3 +38,13 @@ header {
   #canvas {
     background-image: -moz-linear-gradient(aqua white);
   }
+
+  #form {
+    padding-block: ;
+  }
+
+  .container {
+    text-align: center;
+    color: navy;
+    background-color: rgb(171, 236, 236)
+  }
